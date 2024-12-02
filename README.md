@@ -40,8 +40,6 @@ This is a **modern scientific calculator** application built using Python and Tk
 2. Use the number and operator buttons for convenience.  
 3. Select additional features (graphs, trigonometry, unit conversion) using the toggle buttons.  
 4. View the result in the "Result" field or plot graphs directly.  
-5. Access the history for past calculations using the **History** button.  
-
 --- 
 
 ## Future Improvements  
